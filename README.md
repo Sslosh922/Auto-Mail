@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Medical Recommendation System
+# 🧠 Auto Mail
 
 A smart, AI-based medical recommendation web app that helps users get quick, relevant medical advice based on their symptoms. Integrates multiple APIs, email alerts, and intelligent text processing.
 
